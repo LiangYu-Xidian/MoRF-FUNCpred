@@ -14,7 +14,7 @@ molecular recognition feature function prediction based on multi-label learning 
 
 ## Run MoRF-FUNCpred through the provided features
 
-Put the protein sequences to be predicted in the input folder in fasta format
+Unzip the "MoRF-FUNCpred" file, Put the protein sequences to be predicted in the input folder in fasta format named "test.fasta".
 
 Execute in the command line:`sh run.sh`
 
